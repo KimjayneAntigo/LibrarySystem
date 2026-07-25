@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# XAMPP logs
+*.log
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+
+# Composer (if used)
+vendor/
+
+# Environment variables
+.env
+
+# Cache
+.cache/
